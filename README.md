@@ -33,7 +33,7 @@ PROJECT_NAME=ChatbotProject
 
 ▶️ **Running the Chatbots**
 
-🔹 OpenAI GPT-3.5
+🔹 **OpenAI GPT-3.5**
 
 streamlit run app_openai.py
 
